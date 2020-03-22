@@ -14,5 +14,6 @@
 
     <modules>
         <module>demo-dependencies</module>
+        <module>demo-commons</module>
     </modules>
 </project>

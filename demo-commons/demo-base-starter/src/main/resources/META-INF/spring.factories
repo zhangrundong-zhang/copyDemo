@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.meitq.base.DateConverterConfig,\
+    com.meitq.base.MybatisPlusConfig,\
+    com.meitq.base.ExceptionConfiguration,\
+    com.meitq.base.ValidatorConfig,\
+    com.meitq.base.WebMvcConfig

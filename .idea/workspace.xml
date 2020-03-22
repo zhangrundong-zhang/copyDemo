@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46900a96-00f7-4c76-b23b-145703231403" name="Default Changelist" comment="" />
+    <list default="true" id="46900a96-00f7-4c76-b23b-145703231403" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-server/src/main/java/com/copy/clientserver/ClientServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/DateConverterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/ExceptionConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/ValidatorConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/converter/LocalDateConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/converter/LocalDateTimeConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/converter/LocalTimeConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/exception/DefaultGlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/interceptor/CallTimeLogInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy/mybatisplus/CustomMetaObjectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/enums/MessageCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/exception/AppException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/generator/MyCommentGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/DataList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/DataObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/DataPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/PageInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/ResponseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/ResponseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/ResponseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/ResponseObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/response/ResponsePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/utils/AssertUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/utils/DateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/utils/MD5Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/demo-core/src/main/java/com/copy/utils/SpringUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-commons/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-dependencies/demo-dependencies.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copyDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/copyDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dependencies/demodependencies.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-dependencies/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dependencies/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/java/com/demo/eurekaserver/EurekaServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,32 +66,92 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="F:/apache/apache-maven-3.5.3" />
-        <option name="userSettingsFile" value="F:\apache\apache-maven-3.5.3\conf\settings.xml" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1ZEq54Bz70pBijvNcNzBkww1sQP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo-commons/demo-base-starter/src/main/java/com/copy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4827586" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.copy.mybatisplus" />
+      <recent name="com.copy.interceptor" />
+      <recent name="com.copy.exception" />
+      <recent name="com.copy.generator" />
+      <recent name="com.copy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\meitq\demoCode\demo-commons\demo-base-starter\src\main\java\com\copy" />
+      <recent name="D:\meitq\demoCode\demo-commons\demo-core\src\main\java\com\copy\utils" />
+      <recent name="D:\meitq\demoCode\demo-commons\demo-core\src\main\java\com\copy\response" />
+      <recent name="D:\meitq\demoCode\demo\src\main\resources" />
+      <recent name="D:\meitq\demoCode\client-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn mvn -U idea:idea" />
+    </option>
+  </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -50,14 +163,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="eureka-server" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.eurekaserver.EurekaServerApplication" />
+  <component name="RunManager" selected="Spring Boot.ClientServerApplication (1)">
+    <configuration name="ClientServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="client-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.copy.clientserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.copy.clientserver.ClientServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.copy.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ClientServerApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.019327732" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6eb870b1" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -71,10 +218,34 @@
       <updated>1584414414605</updated>
       <workItem from="1584414418161" duration="5378000" />
       <workItem from="1584692742750" duration="1869000" />
+      <workItem from="1584716744733" duration="1516000" />
+      <workItem from="1584751306372" duration="5137000" />
+      <workItem from="1584756511719" duration="1865000" />
+      <workItem from="1584780255070" duration="5353000" />
+      <workItem from="1584839453265" duration="2471000" />
+      <workItem from="1584842029289" duration="1083000" />
+      <workItem from="1584843490336" duration="470000" />
+      <workItem from="1584844005302" duration="8141000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -2,16 +2,28 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka-server" />
+        <module name="demobasestarter" />
+        <module name="client-server" />
+        <module name="democore" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="clientserver" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="demo-dependencies" target="1.5" />
+      <module name="eureka-server" target="1.5" />
+      <module name="server" target="1.5" />
+      <module name="serverclient" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="" />
       <module name="eureka-server" options="-parameters" />
     </option>
   </component>
