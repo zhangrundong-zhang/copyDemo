@@ -1,10 +1,11 @@
 package com.copy;
 
+import com.copy.converter.LocalDateConvert;
+import com.copy.converter.LocalDateTimeConvert;
+import com.copy.converter.LocalTimeConvert;
+import com.copy.utils.JsonUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.meitq.base.converter.LocalDateConvert;
-import com.meitq.base.converter.LocalDateTimeConvert;
-import com.meitq.base.converter.LocalTimeConvert;
-import com.meitq.util.JsonUtils;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.convert.converter.Converter;
